@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
                 in 25.6..30.50->"Over Weight"
 
 
-                else -> "He/She is blast"
+                else -> "You are no more in the world"
             }
 
         }
